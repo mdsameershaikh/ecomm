@@ -2,8 +2,7 @@
   <div id="app">
     <page-head />
     <div id="product-crousel">
-      crousel
-    </div>
+      crouse area </div>
     <div id="product-grid">
       <product />
       <product />
