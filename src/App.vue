@@ -1,17 +1,17 @@
 <template>
   <div id="app">
-  <h1>This is new ecommerce website</h1>
-   
+    <page-head />
+
   </div>
 </template>
 
 <script>
-
+import page_head from './components/page-head.vue'
 
 export default {
   name: 'App',
   components: {
-
+    'page-head': page_head
   }
 }
 </script>
